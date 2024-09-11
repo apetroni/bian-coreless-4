@@ -1,4 +1,4 @@
-# HTTP BIAN RESTprototype implementation of Party_Routing_Profile Service Domain for bian-coreless-4
+# HTTP BIAN REST prototype implementation of Party_Routing_Profile Service Domain for bian-coreless-4
 ## Architecture
 - Party_Rouning_Profile service domain, service operation implementation that honors BIAN 12.0.0 REST API operations.
   
